@@ -1,0 +1,251 @@
+Product_ID,Category,SubCategory,Unit_Cost,Unit_Price,Product_Name
+P10000,Grocery,Snacks,77.05,101.87,Gro_Sna_0000
+P10001,Electronics,Accessories,308.39,383.46,Ele_Acc_0001
+P10002,Beauty,Haircare,12.7,16.63,Bea_Hai_0002
+P10003,Sports,Outdoor,154.57,190.87,Spo_Out_0003
+P10004,Electronics,Mobiles,50.02,59.82,Ele_Mob_0004
+P10005,Sports,Fitness,119.93,179.48,Spo_Fit_0005
+P10006,Apparel,Women,58.4,90.9,App_Wom_0006
+P10007,Home & Kitchen,Appliances,136.84,189.79,Hom_App_0007
+P10008,Toys,Puzzles,164.14,211.67,Toy_Puz_0008
+P10009,Sports,Team Sports,101.01,153.79,Spo_Tea_0009
+P10010,Beauty,Makeup,198.36,330.03,Bea_Mak_0010
+P10011,Sports,Team Sports,315.32,459.83,Spo_Tea_0011
+P10012,Sports,Outdoor,171.21,203.29,Spo_Out_0012
+P10013,Sports,Fitness,77.54,100.21,Spo_Fit_0013
+P10014,Grocery,Staples,97.35,139.01,Gro_Sta_0014
+P10015,Sports,Outdoor,277.23,427.73,Spo_Out_0015
+P10016,Grocery,Snacks,198.41,287.96,Gro_Sna_0016
+P10017,Beauty,Makeup,147.91,230.23,Bea_Mak_0017
+P10018,Beauty,Haircare,49.54,79.07,Bea_Hai_0018
+P10019,Sports,Team Sports,188.17,227.62,Spo_Tea_0019
+P10020,Grocery,Snacks,121.34,142.85,Gro_Sna_0020
+P10021,Home & Kitchen,Decor,302.48,471.87,Hom_Dec_0021
+P10022,Sports,Team Sports,271.6,442.61,Spo_Tea_0022
+P10023,Toys,Action Figures,31.75,46.53,Toy_Act_0023
+P10024,Toys,Action Figures,186.54,260.74,Toy_Act_0024
+P10025,Beauty,Haircare,75.8,116.4,Bea_Hai_0025
+P10026,Toys,Educational,140.7,208.33,Toy_Edu_0026
+P10027,Toys,Educational,285.47,439.04,Toy_Edu_0027
+P10028,Apparel,Women,211.18,266.12,App_Wom_0028
+P10029,Sports,Outdoor,132.63,170.44,Spo_Out_0029
+P10030,Sports,Team Sports,81.87,107.9,Spo_Tea_0030
+P10031,Sports,Fitness,279.53,401.16,Spo_Fit_0031
+P10032,Sports,Outdoor,259.88,314.14,Spo_Out_0032
+P10033,Electronics,Accessories,199.38,236.69,Ele_Acc_0033
+P10034,Sports,Fitness,72.48,112.65,Spo_Fit_0034
+P10035,Grocery,Staples,111.77,170.45,Gro_Sta_0035
+P10036,Beauty,Makeup,351.16,480.12,Bea_Mak_0036
+P10037,Grocery,Beverages,163.45,262.44,Gro_Bev_0037
+P10038,Beauty,Makeup,144.2,203.35,Bea_Mak_0038
+P10039,Electronics,Laptops,196.13,263.1,Ele_Lap_0039
+P10040,Sports,Outdoor,285.34,390.6,Spo_Out_0040
+P10041,Home & Kitchen,Cookware,118.35,173.35,Hom_Coo_0041
+P10042,Grocery,Snacks,68.75,93.46,Gro_Sna_0042
+P10043,Sports,Fitness,247.33,294.54,Spo_Fit_0043
+P10044,Beauty,Makeup,217.78,334.28,Bea_Mak_0044
+P10045,Grocery,Snacks,273.25,357.8,Gro_Sna_0045
+P10046,Apparel,Kids,269.74,441.58,App_Kid_0046
+P10047,Toys,Action Figures,116.37,188.73,Toy_Act_0047
+P10048,Apparel,Kids,31.22,42.3,App_Kid_0048
+P10049,Home & Kitchen,Furniture,300.2,479.38,Hom_Fur_0049
+P10050,Sports,Team Sports,133.43,220.33,Spo_Tea_0050
+P10051,Electronics,Audio,201.55,313.51,Ele_Aud_0051
+P10052,Sports,Fitness,248.17,334.82,Spo_Fit_0052
+P10053,Home & Kitchen,Furniture,213.76,275.52,Hom_Fur_0053
+P10054,Home & Kitchen,Cookware,69.36,106.6,Hom_Coo_0054
+P10055,Toys,Puzzles,290.56,378.8,Toy_Puz_0055
+P10056,Home & Kitchen,Cookware,260.09,402.86,Hom_Coo_0056
+P10057,Apparel,Kids,209.98,278.72,App_Kid_0057
+P10058,Toys,Action Figures,173.53,246.84,Toy_Act_0058
+P10059,Sports,Team Sports,46.88,61.4,Spo_Tea_0059
+P10060,Grocery,Staples,39.52,46.56,Gro_Sta_0060
+P10061,Sports,Outdoor,144.43,173.08,Spo_Out_0061
+P10062,Electronics,Laptops,95.49,158.87,Ele_Lap_0062
+P10063,Home & Kitchen,Cookware,391.84,477.06,Hom_Coo_0063
+P10064,Home & Kitchen,Appliances,242.26,392.89,Hom_App_0064
+P10065,Beauty,Makeup,278.02,331.66,Bea_Mak_0065
+P10066,Toys,Puzzles,175.15,261.24,Toy_Puz_0066
+P10067,Beauty,Skincare,61.1,87.85,Bea_Ski_0067
+P10068,Toys,Educational,304.81,489.34,Toy_Edu_0068
+P10069,Apparel,Kids,119.74,190.65,App_Kid_0069
+P10070,Toys,Action Figures,45.28,57.93,Toy_Act_0070
+P10071,Sports,Outdoor,208.54,249.43,Spo_Out_0071
+P10072,Electronics,Mobiles,329.4,437.63,Ele_Mob_0072
+P10073,Grocery,Beverages,346.02,444.21,Gro_Bev_0073
+P10074,Toys,Educational,8.24,10.43,Toy_Edu_0074
+P10075,Toys,Educational,295.39,443.72,Toy_Edu_0075
+P10076,Toys,Educational,85.2,139.38,Toy_Edu_0076
+P10077,Electronics,Audio,14.59,24.29,Ele_Aud_0077
+P10078,Home & Kitchen,Decor,292.02,424.66,Hom_Dec_0078
+P10079,Electronics,Mobiles,285.68,432.61,Ele_Mob_0079
+P10080,Home & Kitchen,Decor,184.75,300.13,Hom_Dec_0080
+P10081,Grocery,Snacks,186.59,289.34,Gro_Sna_0081
+P10082,Sports,Fitness,257.18,407.49,Spo_Fit_0082
+P10083,Electronics,Mobiles,326.7,394.22,Ele_Mob_0083
+P10084,Home & Kitchen,Furniture,282.99,445.6,Hom_Fur_0084
+P10085,Sports,Fitness,204.61,278.61,Spo_Fit_0085
+P10086,Sports,Fitness,362.16,483.99,Spo_Fit_0086
+P10087,Home & Kitchen,Furniture,366.53,498.09,Hom_Fur_0087
+P10088,Home & Kitchen,Decor,39.17,62.69,Hom_Dec_0088
+P10089,Apparel,Kids,289.23,425.52,App_Kid_0089
+P10090,Sports,Team Sports,154.68,252.41,Spo_Tea_0090
+P10091,Home & Kitchen,Furniture,137.58,196.85,Hom_Fur_0091
+P10092,Sports,Team Sports,199.63,308.47,Spo_Tea_0092
+P10093,Electronics,Laptops,24.21,32.7,Ele_Lap_0093
+P10094,Grocery,Beverages,197.71,255.7,Gro_Bev_0094
+P10095,Beauty,Makeup,319.67,436.09,Bea_Mak_0095
+P10096,Beauty,Haircare,78.41,110.66,Bea_Hai_0096
+P10097,Toys,Puzzles,150.56,216.06,Toy_Puz_0097
+P10098,Home & Kitchen,Cookware,380.93,470.04,Hom_Coo_0098
+P10099,Home & Kitchen,Decor,142.19,217.14,Hom_Dec_0099
+P10100,Sports,Outdoor,142.91,182.39,Spo_Out_0100
+P10101,Toys,Puzzles,176.08,223.07,Toy_Puz_0101
+P10102,Home & Kitchen,Appliances,184.75,262.13,Hom_App_0102
+P10103,Sports,Team Sports,214.33,317.84,Spo_Tea_0103
+P10104,Home & Kitchen,Decor,288.02,401.34,Hom_Dec_0104
+P10105,Sports,Team Sports,142.61,228.79,Spo_Tea_0105
+P10106,Home & Kitchen,Cookware,250.49,409.65,Hom_Coo_0106
+P10107,Apparel,Women,169.02,269.19,App_Wom_0107
+P10108,Grocery,Beverages,111.6,172.55,Gro_Bev_0108
+P10109,Sports,Outdoor,240.1,330.69,Spo_Out_0109
+P10110,Grocery,Snacks,292.64,360.27,Gro_Sna_0110
+P10111,Apparel,Men,185.31,281.23,App_Men_0111
+P10112,Apparel,Men,27.53,33.02,App_Men_0112
+P10113,Apparel,Women,74.72,89.09,App_Wom_0113
+P10114,Apparel,Women,122.78,146.22,App_Wom_0114
+P10115,Electronics,Laptops,117.28,144.9,Ele_Lap_0115
+P10116,Grocery,Snacks,233.78,338.34,Gro_Sna_0116
+P10117,Toys,Puzzles,8.7,14.08,Toy_Puz_0117
+P10118,Grocery,Snacks,281.34,379.06,Gro_Sna_0118
+P10119,Beauty,Skincare,100.85,136.34,Bea_Ski_0119
+P10120,Electronics,Audio,128.75,158.46,Ele_Aud_0120
+P10121,Home & Kitchen,Decor,226.11,266.32,Hom_Dec_0121
+P10122,Home & Kitchen,Appliances,81.34,111.88,Hom_App_0122
+P10123,Toys,Puzzles,303.9,442.81,Toy_Puz_0123
+P10124,Beauty,Skincare,30.55,47.26,Bea_Ski_0124
+P10125,Beauty,Makeup,135.25,224.97,Bea_Mak_0125
+P10126,Beauty,Makeup,309.43,425.46,Bea_Mak_0126
+P10127,Apparel,Men,228.93,309.84,App_Men_0127
+P10128,Electronics,Mobiles,120.69,149.7,Ele_Mob_0128
+P10129,Home & Kitchen,Furniture,154.87,213.28,Hom_Fur_0129
+P10130,Electronics,Mobiles,294.18,354.81,Ele_Mob_0130
+P10131,Electronics,Mobiles,368.49,486.76,Ele_Mob_0131
+P10132,Electronics,Accessories,362.19,447.1,Ele_Acc_0132
+P10133,Beauty,Haircare,111.17,174.5,Bea_Hai_0133
+P10134,Toys,Action Figures,406.19,499.11,Toy_Act_0134
+P10135,Toys,Educational,5.17,6.73,Toy_Edu_0135
+P10136,Beauty,Haircare,12.0,18.68,Bea_Hai_0136
+P10137,Home & Kitchen,Furniture,267.26,412.8,Hom_Fur_0137
+P10138,Home & Kitchen,Appliances,86.26,103.73,Hom_App_0138
+P10139,Home & Kitchen,Appliances,21.33,35.08,Hom_App_0139
+P10140,Toys,Puzzles,87.59,122.39,Toy_Puz_0140
+P10141,Toys,Educational,146.47,215.92,Toy_Edu_0141
+P10142,Electronics,Mobiles,280.94,366.63,Ele_Mob_0142
+P10143,Beauty,Skincare,254.35,314.05,Bea_Ski_0143
+P10144,Apparel,Men,84.62,122.62,App_Men_0144
+P10145,Electronics,Accessories,179.59,254.12,Ele_Acc_0145
+P10146,Sports,Team Sports,391.86,463.48,Spo_Tea_0146
+P10147,Toys,Educational,325.1,408.43,Toy_Edu_0147
+P10148,Electronics,Audio,135.99,164.98,Ele_Aud_0148
+P10149,Beauty,Skincare,348.61,491.22,Bea_Ski_0149
+P10150,Sports,Team Sports,234.28,355.77,Spo_Tea_0150
+P10151,Grocery,Snacks,25.24,35.91,Gro_Sna_0151
+P10152,Electronics,Audio,17.45,22.4,Ele_Aud_0152
+P10153,Beauty,Makeup,55.43,88.36,Bea_Mak_0153
+P10154,Beauty,Skincare,243.87,365.29,Bea_Ski_0154
+P10155,Toys,Puzzles,58.69,95.95,Toy_Puz_0155
+P10156,Apparel,Kids,182.82,258.19,App_Kid_0156
+P10157,Electronics,Mobiles,41.28,51.16,Ele_Mob_0157
+P10158,Beauty,Haircare,279.35,460.84,Bea_Hai_0158
+P10159,Home & Kitchen,Cookware,134.75,175.26,Hom_Coo_0159
+P10160,Beauty,Haircare,378.68,454.53,Bea_Hai_0160
+P10161,Apparel,Kids,311.63,472.71,App_Kid_0161
+P10162,Beauty,Skincare,6.21,8.03,Bea_Ski_0162
+P10163,Toys,Action Figures,198.08,234.75,Toy_Act_0163
+P10164,Grocery,Snacks,14.46,17.2,Gro_Sna_0164
+P10165,Electronics,Laptops,299.59,454.8,Ele_Lap_0165
+P10166,Toys,Action Figures,163.53,261.61,Toy_Act_0166
+P10167,Electronics,Mobiles,26.82,42.1,Ele_Mob_0167
+P10168,Sports,Fitness,46.21,59.59,Spo_Fit_0168
+P10169,Electronics,Audio,152.26,194.84,Ele_Aud_0169
+P10170,Sports,Team Sports,361.55,470.42,Spo_Tea_0170
+P10171,Toys,Educational,238.03,347.99,Toy_Edu_0171
+P10172,Home & Kitchen,Furniture,279.12,434.47,Hom_Fur_0172
+P10173,Apparel,Women,138.9,186.4,App_Wom_0173
+P10174,Home & Kitchen,Cookware,19.03,26.39,Hom_Coo_0174
+P10175,Sports,Team Sports,381.16,487.29,Spo_Tea_0175
+P10176,Beauty,Skincare,9.59,13.5,Bea_Ski_0176
+P10177,Beauty,Makeup,324.59,474.09,Bea_Mak_0177
+P10178,Home & Kitchen,Furniture,126.26,187.5,Hom_Fur_0178
+P10179,Beauty,Skincare,6.52,9.99,Bea_Ski_0179
+P10180,Sports,Outdoor,230.67,346.13,Spo_Out_0180
+P10181,Toys,Educational,305.85,490.37,Toy_Edu_0181
+P10182,Apparel,Kids,331.67,482.98,App_Kid_0182
+P10183,Grocery,Beverages,51.57,84.66,Gro_Bev_0183
+P10184,Electronics,Audio,61.25,94.72,Ele_Aud_0184
+P10185,Sports,Team Sports,224.16,284.94,Spo_Tea_0185
+P10186,Grocery,Snacks,218.36,320.47,Gro_Sna_0186
+P10187,Sports,Team Sports,284.59,371.01,Spo_Tea_0187
+P10188,Electronics,Audio,73.73,94.62,Ele_Aud_0188
+P10189,Electronics,Laptops,357.53,479.71,Ele_Lap_0189
+P10190,Apparel,Women,269.69,321.18,App_Wom_0190
+P10191,Apparel,Women,256.85,424.29,App_Wom_0191
+P10192,Apparel,Men,213.69,272.33,App_Men_0192
+P10193,Beauty,Skincare,176.4,210.07,Bea_Ski_0193
+P10194,Sports,Fitness,398.58,488.71,Spo_Fit_0194
+P10195,Toys,Educational,188.19,293.15,Toy_Edu_0195
+P10196,Electronics,Laptops,295.93,434.1,Ele_Lap_0196
+P10197,Sports,Outdoor,306.69,476.88,Spo_Out_0197
+P10198,Grocery,Staples,254.59,339.3,Gro_Sta_0198
+P10199,Sports,Outdoor,215.3,276.72,Spo_Out_0199
+P10200,Apparel,Men,4.58,6.74,App_Men_0200
+P10201,Apparel,Kids,18.23,24.81,App_Kid_0201
+P10202,Sports,Fitness,80.69,104.42,Spo_Fit_0202
+P10203,Apparel,Men,68.47,97.07,App_Men_0203
+P10204,Beauty,Skincare,106.66,131.11,Bea_Ski_0204
+P10205,Electronics,Audio,123.64,155.94,Ele_Aud_0205
+P10206,Grocery,Staples,112.9,183.23,Gro_Sta_0206
+P10207,Sports,Team Sports,161.0,213.17,Spo_Tea_0207
+P10208,Electronics,Accessories,35.54,53.94,Ele_Acc_0208
+P10209,Beauty,Makeup,19.2,25.97,Bea_Mak_0209
+P10210,Grocery,Snacks,284.16,338.6,Gro_Sna_0210
+P10211,Apparel,Men,222.14,270.98,App_Men_0211
+P10212,Home & Kitchen,Appliances,157.65,224.85,Hom_App_0212
+P10213,Beauty,Skincare,214.68,319.05,Bea_Ski_0213
+P10214,Home & Kitchen,Appliances,273.12,414.7,Hom_App_0214
+P10215,Electronics,Laptops,158.88,216.71,Ele_Lap_0215
+P10216,Sports,Outdoor,202.62,322.35,Spo_Out_0216
+P10217,Grocery,Snacks,351.72,477.02,Gro_Sna_0217
+P10218,Apparel,Women,252.51,420.61,App_Wom_0218
+P10219,Grocery,Staples,147.0,215.87,Gro_Sta_0219
+P10220,Beauty,Makeup,212.3,324.13,Bea_Mak_0220
+P10221,Apparel,Men,78.09,92.65,App_Men_0221
+P10222,Home & Kitchen,Cookware,220.83,282.46,Hom_Coo_0222
+P10223,Home & Kitchen,Decor,337.35,490.76,Hom_Dec_0223
+P10224,Toys,Action Figures,163.01,261.57,Toy_Act_0224
+P10225,Grocery,Staples,338.48,464.18,Gro_Sta_0225
+P10226,Sports,Fitness,135.0,206.63,Spo_Fit_0226
+P10227,Home & Kitchen,Appliances,366.64,499.43,Hom_App_0227
+P10228,Sports,Outdoor,235.95,291.71,Spo_Out_0228
+P10229,Toys,Action Figures,19.54,25.92,Toy_Act_0229
+P10230,Beauty,Makeup,224.08,295.44,Bea_Mak_0230
+P10231,Toys,Puzzles,103.61,140.91,Toy_Puz_0231
+P10232,Sports,Outdoor,17.53,21.08,Spo_Out_0232
+P10233,Home & Kitchen,Appliances,342.62,411.32,Hom_App_0233
+P10234,Electronics,Mobiles,103.03,141.49,Ele_Mob_0234
+P10235,Sports,Team Sports,270.1,399.29,Spo_Tea_0235
+P10236,Apparel,Kids,105.57,147.67,App_Kid_0236
+P10237,Electronics,Mobiles,65.43,101.19,Ele_Mob_0237
+P10238,Grocery,Snacks,369.75,487.1,Gro_Sna_0238
+P10239,Sports,Team Sports,133.41,184.01,Spo_Tea_0239
+P10240,Apparel,Men,189.42,302.68,App_Men_0240
+P10241,Grocery,Snacks,199.33,306.94,Gro_Sna_0241
+P10242,Toys,Puzzles,203.32,282.43,Toy_Puz_0242
+P10243,Electronics,Laptops,376.24,457.77,Ele_Lap_0243
+P10244,Sports,Fitness,251.29,338.85,Spo_Fit_0244
+P10245,Beauty,Makeup,157.81,204.85,Bea_Mak_0245
+P10246,Toys,Educational,295.73,431.88,Toy_Edu_0246
+P10247,Apparel,Women,70.3,94.63,App_Wom_0247
+P10248,Beauty,Skincare,195.33,274.4,Bea_Ski_0248
+P10249,Home & Kitchen,Decor,363.67,475.52,Hom_Dec_0249
